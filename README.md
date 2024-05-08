@@ -14,8 +14,12 @@ Welcome to My Recipe App. With you in mind, our software prioritizes usability a
 ## Display All Recipes: After completing the input process, you can choose to display all recipes entered.
 * Select Recipe to Display: 
 * Enter the name of the recipe you want to view. 
-* The app will then display all ingredients 
-* steps
+* The app will then display all ingredients.
+
+## steps
+* Fisrt user will enter number of steps that they want to use.
+* Then input the number of steps needed to prepare your recipe.
+* App will desplay number and descrption of steps provided by the user.
 
 
 ## App will then display the total calorie count.
